@@ -1,0 +1,2 @@
+ardrone_autonomy:parrot_ardrone/ardrone_as:parrot_ardrone/custom_teleop:parrot_ardrone/drone_construct:parrot_ardrone/drone_demo:parrot_ardrone/sjtu_drone:rmil_drone_practicals
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/zhang/drone_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/drone_workspace/install -G Unix Makefiles

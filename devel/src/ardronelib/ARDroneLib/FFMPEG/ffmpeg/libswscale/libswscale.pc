@@ -1,0 +1,14 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=/home/zhang/drone_workspace/devel/src/ardronelib/ARDroneLib/FFMPEG/ffmpeg/../../Soft/Build/targets_versions//ffmpeg_x86_64_PROD_MODE_Linux_5.15.153.1-microsoft-standard-WSL2_GNU_Linux_usrbingcc_9.4.0
+includedir=/home/zhang/drone_workspace/devel/src/ardronelib/ARDroneLib/FFMPEG/ffmpeg/../Includes
+
+Name: libswscale
+Description: FFmpeg image rescaling library
+Version: 2.0.0
+Requires: libavutil = 51.9.1
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lswscale -lm
+Libs.private: 
+Cflags: -I${includedir}

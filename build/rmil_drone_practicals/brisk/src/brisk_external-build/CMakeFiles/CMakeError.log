@@ -1,0 +1,19 @@
+Determining if the include file opencv2/nonfree/nonfree.hpp exists failed with the following output:
+Change Dir: /home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6a32a/fast && make[3]: Entering directory '/home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_6a32a.dir/build.make CMakeFiles/cmTC_6a32a.dir/build
+make[4]: Entering directory '/home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6a32a.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++   -I/usr/include/opencv4  -fPIE   -o CMakeFiles/cmTC_6a32a.dir/CheckIncludeFile.cxx.o -c /home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:10: fatal error: opencv2/nonfree/nonfree.hpp: No such file or directory
+    1 | #include <opencv2/nonfree/nonfree.hpp>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_6a32a.dir/build.make:66: CMakeFiles/cmTC_6a32a.dir/CheckIncludeFile.cxx.o] Error 1
+make[4]: Leaving directory '/home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_6a32a/fast] Error 2
+make[3]: Leaving directory '/home/zhang/drone_workspace/build/rmil_drone_practicals/brisk/src/brisk_external-build/CMakeFiles/CMakeTmp'
+
+
+

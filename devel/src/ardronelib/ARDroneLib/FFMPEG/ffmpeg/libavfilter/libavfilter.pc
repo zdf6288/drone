@@ -1,0 +1,14 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=/home/zhang/drone_workspace/devel/src/ardronelib/ARDroneLib/FFMPEG/ffmpeg/../../Soft/Build/targets_versions//ffmpeg_x86_64_PROD_MODE_Linux_5.15.153.1-microsoft-standard-WSL2_GNU_Linux_usrbingcc_9.4.0
+includedir=/home/zhang/drone_workspace/devel/src/ardronelib/ARDroneLib/FFMPEG/ffmpeg/../Includes
+
+Name: libavfilter
+Description: FFmpeg video filtering library
+Version: 2.23.0
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lavfilter -lm -pthread -lbz2 -lz
+Libs.private: 
+Cflags: -I${includedir}
