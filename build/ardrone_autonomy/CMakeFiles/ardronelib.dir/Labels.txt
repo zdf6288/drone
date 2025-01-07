@@ -1,0 +1,13 @@
+# Target labels
+ ardronelib
+# Source files and their labels
+/home/zhang/drone_workspace/build/ardrone_autonomy/CMakeFiles/ardronelib
+/home/zhang/drone_workspace/build/ardrone_autonomy/CMakeFiles/ardronelib.rule
+/home/zhang/drone_workspace/build/ardrone_autonomy/CMakeFiles/ardronelib-complete.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-install.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-mkdir.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-download.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-update.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-patch.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-configure.rule
+/home/zhang/drone_workspace/devel/src/ardronelib-stamp/ardronelib-build.rule

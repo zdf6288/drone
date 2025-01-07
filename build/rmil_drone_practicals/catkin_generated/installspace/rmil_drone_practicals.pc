@@ -1,0 +1,8 @@
+prefix=/home/zhang/drone_workspace/install
+
+Name: rmil_drone_practicals
+Description: Description of rmil_drone_practicals
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lardrone_practicals
+Requires: image_transport opencv2 roscpp sensor_msgs std_msgs

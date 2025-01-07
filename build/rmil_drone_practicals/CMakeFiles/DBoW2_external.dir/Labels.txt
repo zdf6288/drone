@@ -1,0 +1,13 @@
+# Target labels
+ DBoW2_external
+# Source files and their labels
+/home/zhang/drone_workspace/build/rmil_drone_practicals/CMakeFiles/DBoW2_external
+/home/zhang/drone_workspace/build/rmil_drone_practicals/CMakeFiles/DBoW2_external.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/CMakeFiles/DBoW2_external-complete.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-install.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-mkdir.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-download.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-update.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-patch.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-configure.rule
+/home/zhang/drone_workspace/build/rmil_drone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-build.rule

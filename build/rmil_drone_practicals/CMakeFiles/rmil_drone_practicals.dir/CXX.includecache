@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhang/drone_workspace/src/rmil_drone_practicals/include/arp/PidController.hpp
+cstdint
+-
+
+/home/zhang/drone_workspace/src/rmil_drone_practicals/src/PidController.cpp
+arp/PidController.hpp
+-
+stdexcept
+-
+
